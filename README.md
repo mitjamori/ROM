@@ -1,4 +1,4 @@
-# Projektna naloga - mathematica 4. 12. 2018
+﻿# Projektna naloga - mathematica 4. 12. 2018 ##
 
 ### V programu mathematica bom poskusil izrisat nek polieder. Znotraj tega poliedra se bo nahajala krogla. Z funkcijo manipulate bomo lahko premikali to kroglo znotraj tega poliedra. Dodatno k tej nalogi bom izrazil formulo za volumen krogle, ki bo vulumen samodejno izračunal ukaz manipulate z nastavitvijo različnega pi.
 
